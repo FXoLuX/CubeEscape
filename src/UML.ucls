@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.1" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="lu.uni.programming2.team8.cubeescape.Riddle" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/Riddle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="530" width="314" x="4317" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="2" language="java" name="lu.uni.programming2.team8.cubeescape.IO.Path" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/IO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="196" x="191" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="3" language="java" name="lu.uni.programming2.team8.gameEngine.MyCommand" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/MyCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="332" width="260" x="4017" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="lu.uni.programming2.team8.room.AddLifeRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/AddLifeRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="162" x="728" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="lu.uni.programming2.team8.entity.Entity" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/entity/Entity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="314" width="230" x="3477" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="lu.uni.programming2.team8.room.TrapRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/TrapRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="195" x="1132" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="lu.uni.programming2.team8.cubeescape.Profile" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/Profile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="422" width="212" x="3183" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="lu.uni.programming2.team8.room.CreatureRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/CreatureRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="162" x="2408" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="lu.uni.programming2.team8.gameEngine.MapGenerator" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/MapGenerator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="404" width="521" x="590" y="1467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="lu.uni.programming2.team8.cubeescape.IO" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/IO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="318" x="427" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="lu.uni.programming2.team8.entity.MyBot" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/entity/MyBot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="350" width="199" x="3747" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="lu.uni.programming2.team8.entity.Creature" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/entity/Creature.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2540" y="1570"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="lu.uni.programming2.team8.room.MyRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/MyRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="746" width="411" x="1802" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="lu.uni.programming2.team8.room.AntiTrapRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/AntiTrapRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="162" x="930" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="lu.uni.programming2.team8.room.SpawnRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/SpawnRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="162" x="1367" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="16" language="java" name="lu.uni.programming2.team8.room.MyRoom.Roomtype" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/MyRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="386" width="193" x="1569" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="17" language="java" name="lu.uni.programming2.team8.gameEngine.CubeEscape.GameEndType" 
+    project="CubeEscape" file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/CubeEscape.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="198" x="2652" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="18" language="java" name="lu.uni.programming2.team8.cubeescape.Riddle.RiddleSkipException" 
+    project="CubeEscape" file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/Riddle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="98" width="196" x="4317" y="1467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="lu.uni.programming2.team8.entity.Player" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/entity/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="205" x="4042" y="1467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="lu.uni.programming2.team8.room.ExitRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/ExitRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1884" y="1035"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="lu.uni.programming2.team8.gameEngine.Timer" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/Timer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="242" width="217" x="170" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="lu.uni.programming2.team8.room.TrapRoom.PlayerDeathException" 
+    project="CubeEscape" file="/CubeEscape/src/lu/uni/programming2/team8/room/TrapRoom.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1286" y="1417"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="lu.uni.programming2.team8.entity.MyCrawler" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/entity/MyCrawler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="229" x="3773" y="1467"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="lu.uni.programming2.team8.gameEngine.CubeEscape" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/CubeEscape.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="313" x="3416" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="25" language="java" name="lu.uni.programming2.team8.cubeescape.IO.IdentifierScore" 
+    project="CubeEscape" file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/IO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="224" width="261" x="427" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="26" language="java" name="lu.uni.programming2.team8.gameEngine.MapGenerator.Difficulty" 
+    project="CubeEscape" file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/MapGenerator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="350" width="333" x="2206" y="1929"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="27" language="java" name="lu.uni.programming2.team8.gameEngine.MyParser" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/MyParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="249" x="4017" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="lu.uni.programming2.team8.gameEngine.CubeEscape.GameMenu" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/gameEngine/CubeEscape.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="253" x="2890" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="lu.uni.programming2.team8.room.SaveRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/SaveRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="162" x="2206" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="lu.uni.programming2.team8.cubeescape.Item" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3552" y="1594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="lu.uni.programming2.team8.room.TrapRoom.SkipException" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/TrapRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1494" y="1417"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="lu.uni.programming2.team8.room.EmptyRoom" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/EmptyRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="162" x="2004" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="lu.uni.programming2.team8.room.TrapRoom.LifeLossException" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/room/TrapRoom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1703" y="1418"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="lu.uni.programming2.team8.cubeescape.Score" project="CubeEscape" 
+    file="/CubeEscape/src/lu/uni/programming2/team8/cubeescape/Score.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3144" y="1678"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="36">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="37" name="myRobot"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <bendpoint x="2621" y="877"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="40" name="ANTITRAP_REWARD_RELATION"/>      
+      <multiplicity id="41" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="44">    
+    <bendpoint x="3425" y="877"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="45" name="highscore"/>      
+      <multiplicity id="46" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="48" name="DEFAULT"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="51" name="riddleList"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <nesting id="54">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <association id="55">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="56" name="FIREPROTECTION"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="59" name="profiles"/>      
+      <multiplicity id="60" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="62" name="creature"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="65">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="66" name="TRAP_ANTITRAP_RELATION"/>      
+      <multiplicity id="67" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="69" name="player"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="72" name="rtype"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="75">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="76" name="myBot"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="79" name="current_profile"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="81">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <nesting id="82">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <association id="84">    
+    <bendpoint x="2215" y="1467"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="85" name="diff"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="88" name="diff"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="91" name="reward"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="94" name="RUBBERBOOTS"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="96">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <nesting id="97">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <generalization id="98">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="99">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="100" name="player"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="103" name="diff"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="106" name="ITEMLIST"/>      
+      <multiplicity id="107" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="109" name="ANTIDOTE"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="112" name="MIRROR"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="115" name="inventory"/>      
+      <multiplicity id="116" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <bendpoint x="3986" y="877"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="118" name="player"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <bendpoint x="3446" y="877"/>    
+    <bendpoint x="3446" y="1467"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="121" name="diff"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="123">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <nesting id="124">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="125">    
+    <bendpoint x="2600" y="877"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="126" name="requirement"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="129" name="PIZZA"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="132">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="133" name="menu"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="135">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="136">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="137">    
+    <bendpoint x="1141" y="1467"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="138" name="diff"/>      
+      <multiplicity id="139" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="140">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <nesting id="141">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <association id="142">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="143" name="highscore"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="145">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <association id="146">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="147" name="commandList"/>      
+      <multiplicity id="148" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
